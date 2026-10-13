@@ -4,6 +4,7 @@ public class HelloWorld {
       //This is the last part of this part
       System.out.println("I am now pushing changes.");
 	  	System.out.println("HELP ME");
+      System.out.println("This is Thomas in the step of both making changes");
 
       }
      }
