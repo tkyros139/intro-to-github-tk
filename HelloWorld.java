@@ -3,7 +3,6 @@ public class HelloWorld {
       System.out.println("Hello World!");
       //This is the last part of this part
       System.out.println("I am now pushing changes.");
-	  	System.out.println("HELP ME");
 
       }
      }
